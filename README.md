@@ -37,7 +37,7 @@
 ###### Creating an immersive experience and training the bot to respond emotionally.
 
 ##   Our Team
-##### 1. Vaibhav Singhal
-##### 2. Kushagra Goel
+##### 1. Kushagra Goel
+##### 2. Vaibhav Singhal
 ##### 3. Shreyansh Tripathi
 ##### 4. Deepak Chaturvedi
