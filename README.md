@@ -1,5 +1,5 @@
 
-<p align=center> We are glad to present our idea in HackOn Hackathon 2.0 : </p>
+<p align=center> We are glad to present our idea Manobal : </p>
 
 <p align=center><img src="https://github.com/Vaibhav5702/Manobal/blob/main/readme/MANOBAL.png" height=150 width=150 ></img></p>
 <p align=center> <b><u> " MANOBAL" </b></u></p>
